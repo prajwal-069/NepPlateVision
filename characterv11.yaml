@@ -1,0 +1,5 @@
+train: replace/with/your/path/to/train/images
+val: replace/with/your/path/to/valid/images
+test: replace/with/your/path/to/test/images 
+nc: replace/with/your/number/of/classes (eg:22)
+names: [replace/with/your/names/of/classes eg:'0','1','GA','BA']  

@@ -1,0 +1,24 @@
+GNU AFFERO GENERAL PUBLIC LICENSE
+Version 3, 19 November 2007
+
+Copyright (C) 2024 Prajwal
+
+This program is free software: you can redistribute it and/or modify it under the terms of the GNU Affero General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Affero General Public License for more details.
+
+You should have received a copy of the GNU Affero General Public License along with this program. If not, see <https://www.gnu.org/licenses/>.
+
+This project incorporates the Ultralytics YOLO framework, which is licensed under the GNU Affero General Public License v3.0 (AGPL-3.0). The Ultralytics YOLO framework is developed by Ultralytics and is available at <https://github.com/ultralytics/ultralytics>. As a result, this entire project, including all original contributions by Prajwal, is licensed under AGPL-3.0 to comply with the terms of the Ultralytics YOLO license.
+
+Original contributions by Prajwal include:
+1. Preprocessing logic for image cleaning and enhancement.
+2. Dynamic sorting algorithm for character arrangement.
+3. Streamlit-based UI and pipeline logic.
+
+To comply with AGPL-3.0, you are required to:
+- Make the source code of this project available if you distribute or host it.
+- License any derivative works under AGPL-3.0.
+- Attribute the original author (Prajwal) for reuse of the original contributions listed above, and Ultralytics for the YOLO framework.
+
+For the full text of the GNU Affero General Public License v3.0, see <https://www.gnu.org/licenses/agpl-3.0.en.html>.

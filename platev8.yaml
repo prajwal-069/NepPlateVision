@@ -1,0 +1,5 @@
+train: replace/with/your/path/to/train/images
+val: replace/with/your/path/to/valid/images
+test: replace/with/your/path/to/test/images
+nc: 1
+names: ['plate']
